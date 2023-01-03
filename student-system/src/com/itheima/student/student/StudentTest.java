@@ -5,7 +5,7 @@ import java.util.List;
 import java.util.Scanner;
 
 public class StudentTest {
-    public static void main(String[] args) {
+    public static void startStudentSystem() {
         List<Student> list = new ArrayList<>();
         loop:
         while (true) {
